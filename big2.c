@@ -1,4 +1,4 @@
-#include <stdio.h> divya 
+#include <stdio.h> 
    
 biggest2() {  
     int a, b;  

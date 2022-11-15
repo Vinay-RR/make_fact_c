@@ -1,4 +1,4 @@
-#include <stdio.h> Vinay
+#include <stdio.h> Vinay Divya
    
 biggest2() {  
     int a, b;  

@@ -1,4 +1,4 @@
-#include <stdio.h> Vinay Divya
+#include <stdio.h> Vinay Divya likith
    
 biggest2() {  
     int a, b;  

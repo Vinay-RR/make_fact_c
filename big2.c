@@ -1,4 +1,4 @@
-#include <stdio.h> Vinay Divya likith
+#include <stdio.h> Vinay Divya likith hiriyur
    
 biggest2() {  
     int a, b;  
